@@ -9,14 +9,14 @@ h1 {
     font-size: 300%;
     padding-left: 30px;
     color: white;
-    text-shadow: #000 0px 0px 1px;
+    text-shadow: 0 0 3px #000000;
 }
 
 html, body {
     height:100%;
 }
 
-.games {
+.header {
 	background-image: url("banner-brain-img.jpg");
 	background-repeat: repeat-x;
 	background-size: auto 100%;
