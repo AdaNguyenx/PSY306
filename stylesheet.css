@@ -13,4 +13,7 @@ h1 {
 .games {
 	background-image: url("banner-brain-img.jpg");
 	background-repeat: repeat-x;
+	margin: 0 auto;
+	overflow: hidden;
+    padding: 0px;
 }
