@@ -15,4 +15,11 @@ h1 {
 	overflow: hidden;
     text-align: left;
     color: white;
+    padding: 0px
+}
+
+p {
+	text-align: left;
+    font-family: 'EB Garamond', serif;
+    padding-left: 30px;
 }
