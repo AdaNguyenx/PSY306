@@ -9,6 +9,10 @@ h1 {
     font-size: 300%;
 }
 
+html, body {
+    height:100%;
+}
+
 .games {
 	background-image: url("banner-brain-img.jpg");
 	background-repeat: repeat-x;
