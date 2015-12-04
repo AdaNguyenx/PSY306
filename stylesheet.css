@@ -4,9 +4,10 @@ body {
 }
 
 h1 {
-    text-align: center;
+    text-align: left;
     font-family: 'EB Garamond', serif;
     font-size: 300%;
+    padding-left: 30px;
 }
 
 html, body {
@@ -15,7 +16,7 @@ html, body {
 
 .games {
 	background-image: url("banner-brain-img.jpg");
-	background-repeat: repeat-x;
+	background-repeat: no-repeat;
 	background-size: auto 100%;
 	overflow: hidden;
     text-align: left;
