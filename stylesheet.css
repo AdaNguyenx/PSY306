@@ -6,11 +6,13 @@ body {
 h1 {
     text-align: left;
     font-family: 'EB Garamond', serif;
+    padding-left: 30px;
 }
 
 .games {
 	background-image: url("banner-brain-img.jpg");
 	background-repeat: repeat-x;
+	overflow: hidden;
     text-align: left;
     color: white;
 }
