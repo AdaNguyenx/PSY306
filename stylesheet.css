@@ -22,7 +22,7 @@ h2, h3 {
 	color: #FF0000;
 }
 
-h4 {
+h4, h5 {
 	font-weight: bold;
 	text-align: center;
 	font-size: larger;
@@ -41,6 +41,15 @@ h4 {
     text-align: left;
     padding: 0px;
     color: white;
+}
+
+.fMRIresults {
+	background-image: url("city.jpg");
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+	overflow: hidden;
+    text-align: left;
+    padding: 0px;
 }
 
 .fMRIsub {
