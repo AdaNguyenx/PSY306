@@ -31,12 +31,16 @@ h4 {
 
 .fMRI {
 	background-image: url("glowingbrain.png");
-	background-repeat: repeat-x;
+	background-repeat: no-repeat;
 	background-size: auto 100%;
 	overflow: hidden;
     text-align: left;
     padding: 0px;
     color: white;
+}
+
+.fMRIsub {
+	padding-left: 40px;
 }
 
 .header {
