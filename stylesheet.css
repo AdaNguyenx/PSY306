@@ -29,6 +29,11 @@ h4, h5 {
 	color: #FF0000;
 }
 
+table, th, td {
+	margin: 0px 30px;
+	font-family: Arial;
+}
+
 .pad{
 	padding-top: 60px;
 }
