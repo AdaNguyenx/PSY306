@@ -21,10 +21,6 @@ h2, h3 {
 	font-size: large;
 }
 
-.infographic {
-    display: inline-block;
-    height: 100vh;
-}
 
 .header {
 	background-image: url("banner-brain-img.jpg");
