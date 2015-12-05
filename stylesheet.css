@@ -35,7 +35,7 @@ h4, h5 {
 
 .fMRI {
 	background-image: url("glowingbrain.png");
-	background-repeat: no-repeat;
+	background-repeat: repeat-x;
 	background-size: auto 100%;
 	overflow: hidden;
     text-align: left;
@@ -45,7 +45,7 @@ h4, h5 {
 
 .fMRIresults {
 	background-image: url("city.jpg");
-	background-repeat: no-repeat;
+	background-repeat: repeat-x;
 	background-size: auto 100%;
 	overflow: hidden;
     text-align: left;
