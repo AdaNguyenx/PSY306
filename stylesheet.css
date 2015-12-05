@@ -18,7 +18,8 @@ h2, h3 {
 	font-weight: bold;
 	padding-left: 30px;
 	text-align: left;
-	font-size: large;
+	font-size: larger;
+	color: #FF0000;
 }
 
 .brain{
