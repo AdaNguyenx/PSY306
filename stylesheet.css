@@ -22,16 +22,6 @@ h2, h3 {
 	color: #FF0000;
 }
 
-
-.brain {
-	background-image: url("city.jpg");
-	background-repeat: repeat-x;
-	background-size: auto 100%;
-	overflow: hidden;
-    text-align: left;
-    padding: 0px;
-}
-
 .header {
 	background-image: url("banner-brain-img.jpg");
 	background-repeat: repeat-x;
