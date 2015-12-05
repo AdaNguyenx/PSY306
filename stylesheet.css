@@ -22,15 +22,6 @@ h2, h3 {
 	color: #FF0000;
 }
 
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-}
-
-th, td {
-    padding: 5px;
-    text-align: left;
-}
 
 .brain {
 	background-image: url("city.jpg");
