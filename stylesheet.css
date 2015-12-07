@@ -22,7 +22,7 @@ h2, h3 {
 	color: #FF0000;
 }
 
-h4, h5, h6 {
+h4, h5, h6, h7, h8 {
 	font-weight: bold;
 	text-align: center;
 	font-size: larger;
@@ -47,7 +47,7 @@ table, th, td {
     color: white;
 }
 
-.conclusions {
+.questions {
 	background-image: url("city.jpg");
 	background-repeat: repeat-x;
 	background-size: auto 100%;
