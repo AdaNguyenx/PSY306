@@ -55,12 +55,11 @@ table, th, td {
 }
 
 .questions {
-	background-image: url("questions.png");
+	background-image: url("questions2.png");
 	background-repeat: repeat-x;
 	background-size: auto 100%;
 	overflow: hidden;
     padding: 0px;
-    color: white;
 }
 
 .fMRIsub {
