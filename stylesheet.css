@@ -56,6 +56,7 @@ table, th, td {
 }
 
 .questions {
+	background-color: black;
 	background-image: url("questions.png");
 	background-repeat: repeat-x;
 	background-size: auto 100%;
