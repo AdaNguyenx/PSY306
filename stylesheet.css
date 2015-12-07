@@ -22,18 +22,19 @@ h2, h3 {
 	color: #FF0000;
 }
 
-h4, h5, h6 {
+h4, h5, h6, h8, h9 {
 	font-weight: bold;
 	text-align: center;
 	font-size: larger;
 	color: #FF0000;
 }
 
-h7, h8, h9 {
+h7 {
 	font-weight: bold;
 	text-align: center;
 	font-size: larger;
 	color: #FF0000;
+	padding-top: 30px;
 }
 
 table, th, td {
