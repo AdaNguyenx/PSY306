@@ -54,6 +54,14 @@ table, th, td {
     color: white;
 }
 
+.questions {
+	background-image: url("questions.png");
+	background-repeat: repeat-x;
+	background-size: auto 100%;
+	overflow: hidden;
+    padding: 0px;
+}
+
 .fMRIsub {
 	padding-left: 40px;
 }
