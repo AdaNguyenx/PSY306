@@ -22,7 +22,14 @@ h2, h3 {
 	color: #FF0000;
 }
 
-h4, h5, h6, h7, h8 {
+h4, h5, h6 {
+	font-weight: bold;
+	text-align: center;
+	font-size: larger;
+	color: #FF0000;
+}
+
+h7, h8 {
 	font-weight: bold;
 	text-align: center;
 	font-size: larger;
