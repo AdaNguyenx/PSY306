@@ -46,6 +46,7 @@ table, th, td {
 }
 
 .fMRI {
+	background-color: black;
 	background-image: url("glowingbrain.png");
 	background-repeat: repeat-x;
 	background-size: auto 100%;
@@ -55,11 +56,12 @@ table, th, td {
 }
 
 .questions {
-	background-image: url("questions2.jpg");
+	background-image: url("questions.png");
 	background-repeat: repeat-x;
 	background-size: auto 100%;
 	overflow: hidden;
     padding: 0px;
+    color: white;
 }
 
 .fMRIsub {
