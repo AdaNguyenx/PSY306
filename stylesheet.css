@@ -34,7 +34,7 @@ h7 {
 	text-align: center;
 	font-size: larger;
 	color: #FF0000;
-	padding-top: 30px;
+	padding-top: 60px;
 }
 
 table, th, td {
@@ -50,17 +50,8 @@ table, th, td {
 	background-repeat: repeat-x;
 	background-size: auto 100%;
 	overflow: hidden;
-    text-align: left;
     padding: 0px;
     color: white;
-}
-
-.questions {
-	background-image: url("city.jpg");
-	background-repeat: repeat-x;
-	background-size: auto 100%;
-	overflow: hidden;
-    padding: 0px;
 }
 
 .fMRIsub {
